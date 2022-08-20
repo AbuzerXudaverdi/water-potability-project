@@ -7,4 +7,5 @@ Potable water is the water which is safe to drink. Access to potable water is cr
 For this project, k-Nearest Neighbors and  MPL classifier models are used.
 # Resources
 Kaggle dataset called 'Water Quality' is used in this project. Link is provided below.
+
 https://www.kaggle.com/datasets/adityakadiwal/water-potability
